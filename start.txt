@@ -1,0 +1,3 @@
+name:زياد مصطفى حلمي
+class:11
+favourite snack:cookies
